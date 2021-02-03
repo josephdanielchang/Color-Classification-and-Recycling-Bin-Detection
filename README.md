@@ -1,6 +1,4 @@
-# ECE276A Project 1 - Joseph Chang
-
-## Color Classification and Recycling Bin Detection
+# Color Classification and Recycling Bin Detection
 
 ### Directory Structure
 
